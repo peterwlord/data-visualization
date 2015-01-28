@@ -1,1 +1,3 @@
 mkdir ~/Working_Directory
+cd ~/Working_Directory
+git init
